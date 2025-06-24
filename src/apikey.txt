@@ -1,0 +1,7 @@
+API_KEY= 132a5d93973b489a900c0d62d7e7c25e
+
+const baseImageUrl = "https://spoonacular.com/cdn/ingredients_250x250/";
+const fullImageUrl = `${baseImageUrl}${ingredient.image}`;
+
+
+909ef4efb2564d5ab4bbe227584cba27
